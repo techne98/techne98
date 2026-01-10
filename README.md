@@ -1,7 +1,7 @@
-# Hello, I'm Jack 👋
+# Hi, I'm techne98 👋
 
-I'm a software developer from the UK.
+I am a programmer from the UK primarily focused on Rust. 
 
-I also enjoy exploring how computers and technology work, and writing about it on my [blog](https://jacksmith.xyz).
+I'm interested in developer tooling, compilers, and PL theory, and I enjoy writing about what I learn on my [blog](https://techne98.com/blog).
 
-If you would like to work with me or just say hi, feel free to reach out via [email](mailto:jacksmithxyz@protonmail.com).
+If you would like to work with me or just say hi, feel free to reach out via [email](mailto:techne98@proton.me).
