@@ -1,6 +1,6 @@
 # Hi, I'm techne98 👋
 
-I am a programmer interested in developer tooling, compilers, and PL theory.
+I am a programmer interested in Rust, the web, and backend systems.
 
 I enjoy writing about what I learn on my [blog](https://techne98.com/blog).
 
